@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Bhagavad Gita app using flutter & Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API [An open source rest api on indian Vedic Scripture Shrimad Bhagavad Gita].",
+    "description": "श्रीमद् भगवद् गीता [Gita - The Song of The Lord]",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
